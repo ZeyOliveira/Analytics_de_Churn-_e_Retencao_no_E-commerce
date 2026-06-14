@@ -1,0 +1,7 @@
+credenciais_google.json
+__pycache__/
+.ipynb_checkpoints/
+venv/
+problema_dNegocio.md/
+resumo_executivo.md/
+ecomm_churn.pbix/
