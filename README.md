@@ -8,7 +8,7 @@
 
 Pipeline de dados ponta a ponta envolvendo engenharia analítica em nuvem (GCP/BigQuery), tratamento e Análise Exploratória de Dados (Python) e desenvolvimento de um ecossistema de dashboards para contenção preditiva de evasão de clientes.
 
-🔗 **[Clique aqui para acessar o Portfólio Interativo e Visão de Negócio Completa](([https://sites.google.com/view/portifliopowerbizey/in%C3%ADcio))**
+🔗 **[Clique aqui para acessar o Portfólio Interativo e Visão de Negócio Completa]([https://sites.google.com/view/portifliopowerbizey/in%C3%ADcio)**
 
 ---
 
